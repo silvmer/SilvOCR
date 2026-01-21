@@ -19,4 +19,4 @@ SilOCR is a lightweight, privacy-focused tool that allows you to transcribe text
 This project is licensed under the **GNU GPL v3** - see the [LICENSE](LICENSE) file for details.
 
 ---
-Created with ❤️ by **Sil** (2026)
+Created with ❤️ by **Silvmer** (2026)
