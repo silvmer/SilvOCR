@@ -1,7 +1,7 @@
-# 🔍 SilOCR
+# 🔍 SilvOCR
 **Local-First Batch Transcription Station**
 
-SilOCR is a lightweight, privacy-focused tool that allows you to transcribe text from images directly in your browser. Since it runs locally using `Tesseract.js`, your images never leave your device.
+SilvOCR is a lightweight, privacy-focused tool that allows you to transcribe text from images directly in your browser. Since it runs locally using `Tesseract.js`, your images never leave your device.
 
 ## ✨ Features
 * **Privacy First:** No servers, no uploads. Everything happens on your machine.
